@@ -24,4 +24,4 @@ results and avoided hallucinated figures, since every number the model reference
 ## Sample Output
 "Total monthly revenue swung sharply from a low of ₹11.99M in Aug-24 to a peak of ₹20.60M in Nov-25, delivering an overall 56% rise in the 24-month horizon. 
 The year-over-year (YoY) trajectory is volatile: after a modest 1.5% rise in Feb-24, sales fell 12.9% in Jun-24 (₹12.61M) before surging 39% in Oct-24 (₹19.75M). 
-Oct-24 and Nov-24 align with the post-Diwali and early-holiday shopping surge, when discretionary spending on electronics and apparel traditionally spikes.
+Oct-24 and Nov-24 align with the post-Diwali and early-holiday shopping surge, when discretionary spending on electronics and apparel traditionally spikes."
