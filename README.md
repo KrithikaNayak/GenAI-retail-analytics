@@ -16,7 +16,7 @@ Indian_retail_sales.csv -	Raw dataset (15,000 transactions)
 
 Summary_for_llm.txt	- Pre-computed summary statistics fed to the LLM
 
-Generate_insights_groq.py	- Script that calls the Groq API to generate the executive summary
+Generate_insights_groq.ipypy	- Script that calls the Groq API to generate the executive summary
 
 Indian_Retail_AI_Dashboard.pbix - Power BI dashboard with visuals + AI insight
 ## Tools
