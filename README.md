@@ -13,8 +13,11 @@ Personal Care categories. Includes order date, city/state, category, pricing, di
 4.Visualization — Power BI dashboard combining KPI cards, a monthly trend line, top-cities bar chart, category pie chart, and the AI-generated narrative side by side.
 ## Files
 Indian_retail_sales.csv -	Raw dataset (15,000 transactions)
+
 Summary_for_llm.txt	- Pre-computed summary statistics fed to the LLM
+
 Generate_insights_groq.py	- Script that calls the Groq API to generate the executive summary
+
 Indian_Retail_AI_Dashboard.pbix - Power BI dashboard with visuals + AI insight
 ## Tools
 Python (pandas), Groq API (Llama 3), Power BI
